@@ -3,7 +3,7 @@
 <p align ="center"> 
 ***Featured Project***
 </p>
-<a align ="center" href="Intended hyperlink">![Cash Register Application thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/2fa0fd63-4881-4587-861f-3be9a0d2a2e0)</a>
+<a align ="center" href="https://github.com/t4tiana/cash-register-application/blob/main/README.md">![Cash Register Application thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/2fa0fd63-4881-4587-861f-3be9a0d2a2e0)</a>
 
 
 
