@@ -11,7 +11,7 @@
 
 <br>
 
-🔭 I’m currently working on... creating a Java app using [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=CjwKCAiArLyuBhA7EiwA-qo80AAHyh5Wpg9OksUo1toz-dS-jJVh0i0PP6Jg0OXAOkuLKJlazOcNyRoCinYQAvD_BwE&gclsrc=aw.ds). <br>
+🔭 I’m currently working on... creating an app that helps people track their medicine, written in Java in [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=CjwKCAiArLyuBhA7EiwA-qo80AAHyh5Wpg9OksUo1toz-dS-jJVh0i0PP6Jg0OXAOkuLKJlazOcNyRoCinYQAvD_BwE&gclsrc=aw.ds). <br>
 🌱 I’m currently learning... JavaScript, CSS and intermediate SQL  <br>
 🤔 I’m looking for help with... creating projects on HuggingFace  <br>
 💬 Ask me about... international education, knowledge management, working with a diverse team  <br>
