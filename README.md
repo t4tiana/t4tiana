@@ -1,10 +1,12 @@
 ## :star2: Hi, I'm Tiana!
 <sup>My repos contain artifacts of my learning journey as a developer.</sup>
 
-### // ***Featured Project*** //
+### // ***Featured Projects*** //
 
 
 <a href="https://github.com/t4tiana/cash-register-application/blob/main/README.md">![Cash Register Application thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/2fa0fd63-4881-4587-861f-3be9a0d2a2e0)</a>
+
+<a href="https://github.com/t4tiana/Medicine-Tracker-Android-App/blob/main/README.md">![medicine-tracker-thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/8c759a79-d8f0-4aec-80dc-2dd4067a0317)</a>
 
 
 
