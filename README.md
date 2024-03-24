@@ -3,7 +3,7 @@
 
 ### // ***Featured Projects*** //
 
-<a href="https://github.com/t4tiana/](https://github.com/t4tiana/Venmo-Clone-project/blob/main/README.md">![venmo-clone-thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/bb7bcd00-cfab-467d-a3b8-23db32532b75)</a>
+<a href="https://github.com/t4tiana/Venmo-Clone-project/blob/main/README.md">![venmo-clone-thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/bb7bcd00-cfab-467d-a3b8-23db32532b75)</a>
 
 <a href="https://github.com/t4tiana/cash-register-application/blob/main/README.md">![Cash Register Application thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/2fa0fd63-4881-4587-861f-3be9a0d2a2e0)</a>
 
