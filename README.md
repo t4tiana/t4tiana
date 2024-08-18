@@ -3,7 +3,12 @@
 
 ### // ***Featured Projects*** //
 
-<a href="https://github.com/t4tiana/storage-auction-app/blob/main/README.md">![delta-storage-thumbnail](https://github.com/user-attachments/assets/85a63c77-5ce1-4164-bff3-f288e53580fe)</a>
+
+
+<a href="https://github.com/t4tiana/storage-auction-app/blob/main/README.md">![dss-thumbnail (1)](https://github.com/user-attachments/assets/a2108826-c922-4f54-85a5-5f1a8e3312eb)</a>
+
+<a href="https://github.com/t4tiana/full-stack-movie-api/blob/main/README.md">![ff-thumbnail](https://github.com/user-attachments/assets/58b775ae-715c-4a3b-8f4b-c22fdb00df5a)
+</a>
 
 <a href="https://github.com/t4tiana/Venmo-Clone-project/blob/main/README.md">![venmo-clone-thumbnail](https://github.com/t4tiana/t4tiana/assets/118233338/bb7bcd00-cfab-467d-a3b8-23db32532b75)</a>
 
