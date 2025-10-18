@@ -19,8 +19,8 @@
 
 <br>
 
-🔭 I’m currently working on... creating an app that helps people track their medicine, written in Java in [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=CjwKCAiArLyuBhA7EiwA-qo80AAHyh5Wpg9OksUo1toz-dS-jJVh0i0PP6Jg0OXAOkuLKJlazOcNyRoCinYQAvD_BwE&gclsrc=aw.ds). <br>
-🌱 I’m currently learning... React  <br>
-🤔 I’m looking for help with... creating Docker images and running my projects in containers  <br>
-💬 Ask me about... pivoting careers, knowledge management, working with a diverse team  <br>
+🔭 I’m currently working on... updating our mobile SDK to comply with the EMVCo 2.3.1 specification. <br>
+🌱 I’m currently learning... Android development  <br>
+🤔 I’m looking for help with... a deeper understanding of different types of encryption  <br>
+💬 Ask me about... MCP servers, knowledge management, working with a diverse team  <br>
 📫 How to reach me... [Linkedin](https://www.linkedin.com/in/tianasilva/)
